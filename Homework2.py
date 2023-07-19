@@ -1,0 +1,8 @@
+n1 = input("Noun1:")
+n2 = input("Noun2:")
+v = input("Verb:")
+p = input("Place:")
+t = input("Title:")
+print("")
+print("                 Title: " + t)
+print( n1 + " " + v + " " + n2 + " at " + p)
